@@ -1,7 +1,7 @@
 # TahrimShekan
 Hi
 This app will help you get through the sanctions
-Programs like ... This program comes to the aid of sanctions countries such as Iran and other countries.
+Programs like Spotify This program comes to the aid of sanctions countries such as Iran and other countries.
 Note: This program is not applicable in windows, only linux and macos 
 
 # HOW TO INSTALL
